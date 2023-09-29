@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\opencv\build\include\opencv2\core.hpp(1744,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼
+  14 of 123 functions (11.4%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  浮水印.vcxproj -> D:\影像處理\浮水印\x64\Release\浮水印.exe
